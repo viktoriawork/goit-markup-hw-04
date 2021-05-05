@@ -320,6 +320,7 @@ img {
   margin-top: 30px;
 }
 .our-team-list {
+  background-color: var(--c-background-color);
   display: flex;
   flex-wrap: wrap;
   margin-left: calc(-1 * 30px);
